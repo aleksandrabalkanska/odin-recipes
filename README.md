@@ -1,3 +1,3 @@
 Project Title: Odin Recipes
-Project Description: 
-What Skills does this Project demonstrate?
+Project Description: Creating a recipe index webpage, and adding a link to 3 separate webpages, which contain the name of the dish, an image of the dish, a description of the dish, an ingredient list, and instructions to prepare the dish.
+What Skills does this Project demonstrate? Creating an HTML boilerplate, using tags to create paragraphs, headings, bold text, italicized text, understanding nesting of tags, creating ordered and unordered list, creating links to pages on other websites on the internet, creating links to other pages on the website, using absolute and relative links, displaying an image on a webpage.
